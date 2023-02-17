@@ -10,5 +10,6 @@ public class jdk8deom1 {
         System.out.println(a.toString());
         int b=45;
         System.out.println("第二次上传"+b);
+        System.out.println("第三次上传");
     }
 }
