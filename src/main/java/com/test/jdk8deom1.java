@@ -8,5 +8,7 @@ public class jdk8deom1 {
         StringBuilder a=new StringBuilder("123456789");
         a.insert(1,"颤三");
         System.out.println(a.toString());
+        int b=45;
+        System.out.println("第二次上传"+b);
     }
 }
